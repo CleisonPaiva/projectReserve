@@ -1,0 +1,14 @@
+C:\Users\cleison.paiva\Documents\projectReserve\bin\Debug\net9.0\projectReserve.exe
+C:\Users\cleison.paiva\Documents\projectReserve\bin\Debug\net9.0\projectReserve.deps.json
+C:\Users\cleison.paiva\Documents\projectReserve\bin\Debug\net9.0\projectReserve.runtimeconfig.json
+C:\Users\cleison.paiva\Documents\projectReserve\bin\Debug\net9.0\projectReserve.dll
+C:\Users\cleison.paiva\Documents\projectReserve\bin\Debug\net9.0\projectReserve.pdb
+C:\Users\cleison.paiva\Documents\projectReserve\obj\Debug\net9.0\projectReserve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleison.paiva\Documents\projectReserve\obj\Debug\net9.0\projectReserve.AssemblyInfoInputs.cache
+C:\Users\cleison.paiva\Documents\projectReserve\obj\Debug\net9.0\projectReserve.AssemblyInfo.cs
+C:\Users\cleison.paiva\Documents\projectReserve\obj\Debug\net9.0\projectReserve.csproj.CoreCompileInputs.cache
+C:\Users\cleison.paiva\Documents\projectReserve\obj\Debug\net9.0\projectReserve.dll
+C:\Users\cleison.paiva\Documents\projectReserve\obj\Debug\net9.0\refint\projectReserve.dll
+C:\Users\cleison.paiva\Documents\projectReserve\obj\Debug\net9.0\projectReserve.pdb
+C:\Users\cleison.paiva\Documents\projectReserve\obj\Debug\net9.0\projectReserve.genruntimeconfig.cache
+C:\Users\cleison.paiva\Documents\projectReserve\obj\Debug\net9.0\ref\projectReserve.dll
